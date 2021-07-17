@@ -1,6 +1,5 @@
 ### Hi there 👋, Alp Acarlioglu
-#### Design and Development
-![Design and Development](https://www.linkedin.com/in/alpacarlioglu/)
+![](https://www.linkedin.com/in/alpacarlioglu/)
 
 I'm Alp from Turkey, I study CS and interested in game development and machine learning, and I also enjoy learning languages and frameworks.
 
