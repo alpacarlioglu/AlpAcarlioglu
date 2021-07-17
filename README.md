@@ -13,8 +13,8 @@ Skills: C++/C#
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/alpacarlioglu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/alpacarlioglu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/alpacarlioglu)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=alpacarlioglu&show_icons=true)  
-![Alp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpacarlioglu&show_icons=true&theme=radical)
+
+![Alp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpacarlioglu&show_icons=true&theme=synthwave)
 
 
 
