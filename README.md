@@ -16,5 +16,5 @@ Skills: C++/C#
 
 ![Alp's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpacarlioglu&show_icons=true&theme=synthwave)
 
-
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
