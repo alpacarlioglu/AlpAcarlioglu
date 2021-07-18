@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mobil game**
 
-- 🌱 I’m currently learning **c++**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **Unity**
 
