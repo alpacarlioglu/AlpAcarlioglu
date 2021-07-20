@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **Mobil game**
+- 🔭 I’m currently working on **a mobil game**
 
 - 🌱 I’m currently learning **C++**
 
