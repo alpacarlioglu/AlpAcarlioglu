@@ -19,7 +19,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alp</h1>
-<h3 align="center">A passionate CS student</h3>
+<h3 align="center">A passionate CS student and game developer</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alpacarlioglu&show_icons=true&theme=react)
 
