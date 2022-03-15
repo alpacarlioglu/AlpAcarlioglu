@@ -11,9 +11,7 @@
 <a href="https://www.linkedin.com/in/alpacarlioglu/">
   <img align="left" alt="Alp's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/alpacarlioglu">
-  <img align="left" alt="Alp's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+
 
 <div> </div>
 
